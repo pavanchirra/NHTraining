@@ -5,3 +5,11 @@ C:\C#\Project\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp
 C:\C#\Project\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).csproj.CoreCompileInputs.cache
 C:\C#\Project\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).exe
 C:\C#\Project\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).pdb
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\bin\Debug\ConsoleApp(Numbe from 1-10).exe.config
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\bin\Debug\ConsoleApp(Numbe from 1-10).exe
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\bin\Debug\ConsoleApp(Numbe from 1-10).pdb
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).csproj.AssemblyReference.cache
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).exe
+C:\C#\Project\Day2 Morning Assignment\Day2ConsoleApp(Number 1-10)\ConsoleApp(Numbe from 1-10)\ConsoleApp(Numbe from 1-10)\obj\Debug\ConsoleApp(Numbe from 1-10).pdb
