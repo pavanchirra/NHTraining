@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "456ca30d-16d4-48f2-817e-898f7462ed7f": {
+      "ProjectGuid": "456ca30d-16d4-48f2-817e-898f7462ed7f",
+      "DisplayName": "ConsoleApp(HELLO)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\bin\Debug\ConsoleApp(HELLO).exe.config
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\bin\Debug\ConsoleApp(HELLO).exe
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\bin\Debug\ConsoleApp(HELLO).pdb
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\obj\Debug\ConsoleApp(HELLO).csproj.AssemblyReference.cache
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\obj\Debug\ConsoleApp(HELLO).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\obj\Debug\ConsoleApp(HELLO).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\obj\Debug\ConsoleApp(HELLO).exe
+C:\C#\Project\Day2ConsoleApp(HELLO)\ConsoleApp(HELLO)\ConsoleApp(HELLO)\obj\Debug\ConsoleApp(HELLO).pdb

@@ -1,0 +1,11 @@
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\bin\Debug\Day1Project3.exe.config
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\bin\Debug\Day1Project3.exe
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\bin\Debug\Day1Project3.pdb
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.csproj.AssemblyReference.cache
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.Form1.resources
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.Properties.Resources.resources
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.csproj.GenerateResource.cache
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.exe
+C:\C#\Project\Day1Project3\Day1Project3\Day1Project3\obj\Debug\Day1Project3.pdb
