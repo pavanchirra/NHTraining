@@ -1,0 +1,8 @@
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\bin\Debug\Day3MormimgProject(Sum and Avg uisng array).exe.config
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\bin\Debug\Day3MormimgProject(Sum and Avg uisng array).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\bin\Debug\Day3MormimgProject(Sum and Avg uisng array).pdb
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\obj\Debug\Day3MormimgProject(Sum and Avg uisng array).csproj.AssemblyReference.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\obj\Debug\Day3MormimgProject(Sum and Avg uisng array).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\obj\Debug\Day3MormimgProject(Sum and Avg uisng array).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\obj\Debug\Day3MormimgProject(Sum and Avg uisng array).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MormimgProject(Sum and Avg uisng array)\Day3MormimgProject(Sum and Avg uisng array)\obj\Debug\Day3MormimgProject(Sum and Avg uisng array).pdb

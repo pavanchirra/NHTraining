@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f34d4075-7949-4108-9561-29cdb0a9d764": {
+      "ProjectGuid": "f34d4075-7949-4108-9561-29cdb0a9d764",
+      "DisplayName": "Day2EveProject(Hello using WHILE)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

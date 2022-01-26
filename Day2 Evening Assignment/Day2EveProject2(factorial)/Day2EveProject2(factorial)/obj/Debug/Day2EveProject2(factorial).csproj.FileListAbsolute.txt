@@ -1,0 +1,7 @@
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\bin\Debug\Day2EveProject2(factorial).exe.config
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\bin\Debug\Day2EveProject2(factorial).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\bin\Debug\Day2EveProject2(factorial).pdb
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\obj\Debug\Day2EveProject2(factorial).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\obj\Debug\Day2EveProject2(factorial).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\obj\Debug\Day2EveProject2(factorial).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject2(factorial)\Day2EveProject2(factorial)\obj\Debug\Day2EveProject2(factorial).pdb

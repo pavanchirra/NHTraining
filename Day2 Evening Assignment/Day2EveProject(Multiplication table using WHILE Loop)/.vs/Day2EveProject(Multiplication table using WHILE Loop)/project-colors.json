@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b25ad674-c31a-40c8-8f7c-55e3eca495f6": {
+      "ProjectGuid": "b25ad674-c31a-40c8-8f7c-55e3eca495f6",
+      "DisplayName": "Day2EveProject(Multiplication table using WHILE Loop)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\bin\Debug\Day3MorningProject(Switch case).exe.config
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\bin\Debug\Day3MorningProject(Switch case).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\bin\Debug\Day3MorningProject(Switch case).pdb
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\obj\Debug\Day3MorningProject(Switch case).csproj.AssemblyReference.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\obj\Debug\Day3MorningProject(Switch case).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\obj\Debug\Day3MorningProject(Switch case).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\obj\Debug\Day3MorningProject(Switch case).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Switch case)\Day3MorningProject(Switch case)\obj\Debug\Day3MorningProject(Switch case).pdb

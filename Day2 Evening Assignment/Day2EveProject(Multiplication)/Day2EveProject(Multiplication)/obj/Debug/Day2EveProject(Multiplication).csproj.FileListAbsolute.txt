@@ -1,0 +1,8 @@
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\bin\Debug\Day2EveProject(Multiplication).exe.config
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\bin\Debug\Day2EveProject(Multiplication).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\bin\Debug\Day2EveProject(Multiplication).pdb
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\obj\Debug\Day2EveProject(Multiplication).csproj.AssemblyReference.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\obj\Debug\Day2EveProject(Multiplication).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\obj\Debug\Day2EveProject(Multiplication).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\obj\Debug\Day2EveProject(Multiplication).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Multiplication)\Day2EveProject(Multiplication)\obj\Debug\Day2EveProject(Multiplication).pdb

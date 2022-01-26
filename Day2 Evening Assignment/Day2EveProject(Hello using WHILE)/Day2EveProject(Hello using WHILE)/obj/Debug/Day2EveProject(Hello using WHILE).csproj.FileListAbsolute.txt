@@ -1,0 +1,7 @@
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\bin\Debug\Day2EveProject(Hello using WHILE).exe.config
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\bin\Debug\Day2EveProject(Hello using WHILE).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\bin\Debug\Day2EveProject(Hello using WHILE).pdb
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\obj\Debug\Day2EveProject(Hello using WHILE).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\obj\Debug\Day2EveProject(Hello using WHILE).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\obj\Debug\Day2EveProject(Hello using WHILE).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveProject(Hello using WHILE)\Day2EveProject(Hello using WHILE)\obj\Debug\Day2EveProject(Hello using WHILE).pdb

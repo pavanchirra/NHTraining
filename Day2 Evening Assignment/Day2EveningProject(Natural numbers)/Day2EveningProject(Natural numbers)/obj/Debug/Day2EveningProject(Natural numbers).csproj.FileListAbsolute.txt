@@ -1,0 +1,8 @@
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\bin\Debug\Day2EveningProject(Natural numbers).exe.config
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\bin\Debug\Day2EveningProject(Natural numbers).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\bin\Debug\Day2EveningProject(Natural numbers).pdb
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\obj\Debug\Day2EveningProject(Natural numbers).csproj.AssemblyReference.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\obj\Debug\Day2EveningProject(Natural numbers).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\obj\Debug\Day2EveningProject(Natural numbers).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\obj\Debug\Day2EveningProject(Natural numbers).exe
+C:\C#\Project\Day2 Evening Assignment\Day2EveningProject(Natural numbers)\Day2EveningProject(Natural numbers)\obj\Debug\Day2EveningProject(Natural numbers).pdb

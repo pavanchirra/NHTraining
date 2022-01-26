@@ -1,0 +1,8 @@
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\bin\Debug\Day3MorningProject(Quiz by Meganadh).exe.config
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\bin\Debug\Day3MorningProject(Quiz by Meganadh).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\bin\Debug\Day3MorningProject(Quiz by Meganadh).pdb
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\obj\Debug\Day3MorningProject(Quiz by Meganadh).csproj.AssemblyReference.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\obj\Debug\Day3MorningProject(Quiz by Meganadh).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\obj\Debug\Day3MorningProject(Quiz by Meganadh).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\obj\Debug\Day3MorningProject(Quiz by Meganadh).exe
+C:\C#\Project\Day3 Morning Assignment\Day3MorningProject(Quiz by Meganadh)\Day3MorningProject(Quiz by Meganadh)\obj\Debug\Day3MorningProject(Quiz by Meganadh).pdb

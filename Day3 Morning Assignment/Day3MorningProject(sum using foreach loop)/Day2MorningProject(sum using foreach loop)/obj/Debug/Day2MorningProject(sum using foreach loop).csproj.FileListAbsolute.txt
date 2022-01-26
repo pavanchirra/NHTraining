@@ -1,0 +1,8 @@
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\bin\Debug\Day2MorningProject(sum using foreach loop).exe.config
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\bin\Debug\Day2MorningProject(sum using foreach loop).exe
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\bin\Debug\Day2MorningProject(sum using foreach loop).pdb
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\obj\Debug\Day2MorningProject(sum using foreach loop).csproj.AssemblyReference.cache
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\obj\Debug\Day2MorningProject(sum using foreach loop).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\obj\Debug\Day2MorningProject(sum using foreach loop).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\obj\Debug\Day2MorningProject(sum using foreach loop).exe
+C:\C#\Project\Day3 Morning Assignment\Day2MorningProject(sum using foreach loop)\Day2MorningProject(sum using foreach loop)\obj\Debug\Day2MorningProject(sum using foreach loop).pdb

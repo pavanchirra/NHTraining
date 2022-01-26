@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e0fc924-89ab-4cc3-9e87-47682fe7a68f": {
+      "ProjectGuid": "2e0fc924-89ab-4cc3-9e87-47682fe7a68f",
+      "DisplayName": "Day2MorningProject(using foreach loop)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
