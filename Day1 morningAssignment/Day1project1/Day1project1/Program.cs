@@ -10,7 +10,9 @@ namespace Day1project1
     {
         static void Main(string[] args)
         {
+            
             int num1, num2, result;
+           
             Console.WriteLine("Enter Number 1");
             num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Number 2");
