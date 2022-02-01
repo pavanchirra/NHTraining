@@ -1,0 +1,8 @@
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\bin\Debug\Day7MorningAssignment.exe.config
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\bin\Debug\Day7MorningAssignment.exe
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\bin\Debug\Day7MorningAssignment.pdb
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\obj\Debug\Day7MorningAssignment.csproj.AssemblyReference.cache
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\obj\Debug\Day7MorningAssignment.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\obj\Debug\Day7MorningAssignment.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\obj\Debug\Day7MorningAssignment.exe
+C:\C#\Project\Day7 Morning Assignment\Day7MorningAssignment\Day7MorningAssignment\obj\Debug\Day7MorningAssignment.pdb
