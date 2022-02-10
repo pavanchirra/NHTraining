@@ -5,9 +5,9 @@ namespace Day13Project6
 {
     /// <summary>
     /// DONE BY: PAVAN
-    /// PURPOSE: 
+    /// PURPOSE: Declare TWO 2-D arrays of size (2,2) and read values from user and print the product of the two matrices.
     /// </summary>
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
