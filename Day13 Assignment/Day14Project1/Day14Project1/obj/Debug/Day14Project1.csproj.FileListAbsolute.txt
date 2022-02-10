@@ -1,8 +1,0 @@
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\bin\Debug\Day14Project1.exe.config
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\bin\Debug\Day14Project1.exe
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\bin\Debug\Day14Project1.pdb
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\obj\Debug\Day14Project1.csproj.AssemblyReference.cache
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\obj\Debug\Day14Project1.csproj.SuggestedBindingRedirects.cache
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\obj\Debug\Day14Project1.csproj.CoreCompileInputs.cache
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\obj\Debug\Day14Project1.exe
-C:\C#\Project\Day13 Assignment\Day14Project1\Day14Project1\obj\Debug\Day14Project1.pdb

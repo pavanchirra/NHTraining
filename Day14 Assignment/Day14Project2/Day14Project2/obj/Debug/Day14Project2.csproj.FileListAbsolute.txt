@@ -1,0 +1,8 @@
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\bin\Debug\Day14Project2.exe.config
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\bin\Debug\Day14Project2.exe
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\bin\Debug\Day14Project2.pdb
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\obj\Debug\Day14Project2.csproj.AssemblyReference.cache
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\obj\Debug\Day14Project2.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\obj\Debug\Day14Project2.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\obj\Debug\Day14Project2.exe
+C:\C#\Project\Day14 Assignment\Day14Project2\Day14Project2\obj\Debug\Day14Project2.pdb
