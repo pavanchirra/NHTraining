@@ -1,0 +1,8 @@
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\bin\Debug\Day15QuizApplication.exe.config
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\bin\Debug\Day15QuizApplication.exe
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\bin\Debug\Day15QuizApplication.pdb
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\obj\Debug\Day15QuizApplication.csproj.AssemblyReference.cache
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\obj\Debug\Day15QuizApplication.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\obj\Debug\Day15QuizApplication.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\obj\Debug\Day15QuizApplication.exe
+C:\C#\Project\Day15 Assignment\Day15QuizApplication\Day15QuizApplication\obj\Debug\Day15QuizApplication.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09f80087-dfb0-45e1-bb92-4b8acb1afa58": {
+      "ProjectGuid": "09f80087-dfb0-45e1-bb92-4b8acb1afa58",
+      "DisplayName": "Day15QuizApplication",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
