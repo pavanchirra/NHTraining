@@ -1,0 +1,7 @@
+C:\TEMP\Day15Project4\Day15Project4\bin\Debug\Day15Project4.exe.config
+C:\TEMP\Day15Project4\Day15Project4\bin\Debug\Day15Project4.exe
+C:\TEMP\Day15Project4\Day15Project4\bin\Debug\Day15Project4.pdb
+C:\TEMP\Day15Project4\Day15Project4\obj\Debug\Day15Project4.csproj.SuggestedBindingRedirects.cache
+C:\TEMP\Day15Project4\Day15Project4\obj\Debug\Day15Project4.csproj.CoreCompileInputs.cache
+C:\TEMP\Day15Project4\Day15Project4\obj\Debug\Day15Project4.exe
+C:\TEMP\Day15Project4\Day15Project4\obj\Debug\Day15Project4.pdb
