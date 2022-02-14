@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4d18857-884c-4d87-ae46-c28a72e40f5e": {
+      "ProjectGuid": "b4d18857-884c-4d87-ae46-c28a72e40f5e",
+      "DisplayName": "PavanLibrary2",
+      "ColorIndex": 0
+    },
+    "b51c7421-8a19-45e7-a729-d68318306fcd": {
+      "ProjectGuid": "b51c7421-8a19-45e7-a729-d68318306fcd",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 1
+    },
+    "bd8d8a19-64a9-47c1-95d3-0f54afa22eea": {
+      "ProjectGuid": "bd8d8a19-64a9-47c1-95d3-0f54afa22eea",
+      "DisplayName": "ClientApp",
+      "ColorIndex": 2
+    },
+    "17c9c750-b256-42e7-8cbc-be64e4a94f24": {
+      "ProjectGuid": "17c9c750-b256-42e7-8cbc-be64e4a94f24",
+      "DisplayName": "FactorialUsingWindowsApplication",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

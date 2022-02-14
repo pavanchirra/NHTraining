@@ -1,0 +1,6 @@
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\bin\Debug\PavanLibrary2.dll
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\bin\Debug\PavanLibrary2.pdb
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\obj\Debug\PavanLibrary2.csproj.AssemblyReference.cache
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\obj\Debug\PavanLibrary2.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\obj\Debug\PavanLibrary2.dll
+C:\C#\Project\Day16 Assignment\MyProject\PavanLibrary2\obj\Debug\PavanLibrary2.pdb

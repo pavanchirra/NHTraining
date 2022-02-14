@@ -1,0 +1,16 @@
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\FactorialUsingWindowsApplication.exe.config
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\FactorialUsingWindowsApplication.exe
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\FactorialUsingWindowsApplication.pdb
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\PavanLibrary2.dll
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\PublicLibrary.dll
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\PavanLibrary2.pdb
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\bin\Debug\PublicLibrary.pdb
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.csproj.AssemblyReference.cache
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.Form1.resources
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.Properties.Resources.resources
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.csproj.GenerateResource.cache
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.csproj.CopyComplete
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.exe
+C:\C#\Project\Day16 Assignment\MyProject\FactorialUsingWindowsApplication\obj\Debug\FactorialUsingWindowsApplication.pdb

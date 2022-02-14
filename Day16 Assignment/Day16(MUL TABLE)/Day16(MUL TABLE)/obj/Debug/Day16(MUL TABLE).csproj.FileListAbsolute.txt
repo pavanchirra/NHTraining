@@ -1,0 +1,8 @@
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\bin\Debug\Day16(MUL TABLE).exe.config
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\bin\Debug\Day16(MUL TABLE).exe
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\bin\Debug\Day16(MUL TABLE).pdb
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\obj\Debug\Day16(MUL TABLE).csproj.AssemblyReference.cache
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\obj\Debug\Day16(MUL TABLE).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\obj\Debug\Day16(MUL TABLE).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\obj\Debug\Day16(MUL TABLE).exe
+C:\C#\Project\Day16 Assignment\Day16(MUL TABLE)\Day16(MUL TABLE)\obj\Debug\Day16(MUL TABLE).pdb

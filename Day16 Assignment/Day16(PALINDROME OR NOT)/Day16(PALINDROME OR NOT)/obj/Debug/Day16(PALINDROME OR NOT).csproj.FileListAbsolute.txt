@@ -1,0 +1,7 @@
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\bin\Debug\Day16(PALINDROME OR NOT).exe.config
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\bin\Debug\Day16(PALINDROME OR NOT).exe
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\bin\Debug\Day16(PALINDROME OR NOT).pdb
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\obj\Debug\Day16(PALINDROME OR NOT).csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\obj\Debug\Day16(PALINDROME OR NOT).csproj.CoreCompileInputs.cache
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\obj\Debug\Day16(PALINDROME OR NOT).exe
+C:\C#\Project\Day16 Assignment\Day16(PALINDROME OR NOT)\Day16(PALINDROME OR NOT)\obj\Debug\Day16(PALINDROME OR NOT).pdb
