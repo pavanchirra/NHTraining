@@ -1,0 +1,6 @@
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\bin\Debug\Pavan_Library.dll
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\bin\Debug\Pavan_Library.pdb
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\obj\Debug\Pavan_Library.csproj.AssemblyReference.cache
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\obj\Debug\Pavan_Library.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\obj\Debug\Pavan_Library.dll
+C:\C#\Project\Day16 Assignment\Day16Project(Partial class)\Pavan_Library\obj\Debug\Pavan_Library.pdb

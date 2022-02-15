@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2f20aa74-df25-433c-a87a-711ebd259db4": {
+      "ProjectGuid": "2f20aa74-df25-433c-a87a-711ebd259db4",
+      "DisplayName": "Day16Project(Partial class)",
+      "ColorIndex": 0
+    },
+    "e2f0bd18-3634-42dd-a579-2e67d138a177": {
+      "ProjectGuid": "e2f0bd18-3634-42dd-a579-2e67d138a177",
+      "DisplayName": "Pavan_Library",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
