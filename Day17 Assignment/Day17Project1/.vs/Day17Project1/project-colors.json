@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20e86187-4624-45d6-bcbd-8dac319fa7ba": {
+      "ProjectGuid": "20e86187-4624-45d6-bcbd-8dac319fa7ba",
+      "DisplayName": "Day17Project1",
+      "ColorIndex": 0
+    },
+    "05088b16-4986-4e5e-83bd-fd6562d1f4c1": {
+      "ProjectGuid": "05088b16-4986-4e5e-83bd-fd6562d1f4c1",
+      "DisplayName": "PavanLibrary",
+      "ColorIndex": 1
+    },
+    "05ae9ef1-23a7-4fcb-b291-aeb33b7ec19b": {
+      "ProjectGuid": "05ae9ef1-23a7-4fcb-b291-aeb33b7ec19b",
+      "DisplayName": "PublicLibrary",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
