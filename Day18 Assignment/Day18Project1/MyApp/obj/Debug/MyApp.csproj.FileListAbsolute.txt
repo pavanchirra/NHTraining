@@ -1,0 +1,14 @@
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\bin\Debug\MyApp.exe.config
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\bin\Debug\MyApp.exe
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\bin\Debug\MyApp.pdb
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\bin\Debug\MathematicsLibrary.dll
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\bin\Debug\MathematicsLibrary.pdb
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.Form1.resources
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.exe
+C:\C#\Project\Day18 Assignment\Day18Project1\MyApp\obj\Debug\MyApp.pdb
