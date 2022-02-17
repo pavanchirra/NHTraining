@@ -1,0 +1,5 @@
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibrary\bin\Debug\PalindromeLibrary.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibrary\bin\Debug\PalindromeLibrary.pdb
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibrary\obj\Debug\PalindromeLibrary.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibrary\obj\Debug\PalindromeLibrary.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibrary\obj\Debug\PalindromeLibrary.pdb

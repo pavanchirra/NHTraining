@@ -1,0 +1,17 @@
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\PalindromeLibraryTests.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\PalindromeLibraryTests.pdb
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\PalindromeLibrary.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\PalindromeLibrary.pdb
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\obj\Debug\PalindromeLibraryTests.csproj.AssemblyReference.cache
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\obj\Debug\PalindromeLibraryTests.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\obj\Debug\PalindromeLibraryTests.csproj.CopyComplete
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\obj\Debug\PalindromeLibraryTests.dll
+C:\C#\Project\Day18 Assignment\Day18Project2\PalindromeLibraryTests\obj\Debug\PalindromeLibraryTests.pdb

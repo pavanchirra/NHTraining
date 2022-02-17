@@ -60,7 +60,7 @@ namespace MathematicsLibrary.Tests
         {
             //Arrange
             int n = 5;
-            int expected = 24;
+            int expected = 120;
 
             //Act
             int actual = Algebra.Factorial(n);

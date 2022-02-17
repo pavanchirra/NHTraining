@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5902393-7f92-4701-a289-65070d891b2b": {
+      "ProjectGuid": "a5902393-7f92-4701-a289-65070d891b2b",
+      "DisplayName": "Day18Project2",
+      "ColorIndex": 0
+    },
+    "608dfc70-e3d1-45b2-9bdc-83c819fc3ca7": {
+      "ProjectGuid": "608dfc70-e3d1-45b2-9bdc-83c819fc3ca7",
+      "DisplayName": "PalindromeLibrary",
+      "ColorIndex": 1
+    },
+    "0c14d205-ba15-4f03-8492-8097a34febf3": {
+      "ProjectGuid": "0c14d205-ba15-4f03-8492-8097a34febf3",
+      "DisplayName": "PalindromeLibraryTests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
