@@ -1,0 +1,70 @@
+<Products>
+   <Product1>
+      <ID>1</ID>
+      <Name>Samsung</Name>
+      <Price>25000</Price>
+      <Size>30Inch</Size>
+    </Product1>
+
+  <Product2>
+      <ID>2</ID>
+      <Name>Sony</Name>
+      <Price>35000</Price>
+      <Size>32Inch</Size>
+    </Product2>
+
+ <Product3>
+      <ID>3</ID>
+      <Name>LG</Name>
+      <Price>15000</Price>
+      <Size>24Inch</Size>
+    </Product3>
+
+ <Product4>
+      <ID>4</ID>
+      <Name>RealMe</Name>
+      <Price>20000</Price>
+      <Size>40Inch</Size>
+    </Product4>
+ <Product5>
+      <ID>5</ID>
+      <Name>MI</Name>
+      <Price>30000</Price>
+      <Size>43Inch</Size>
+    </Product5>
+ 
+ <Product6>
+      <ID>6</ID>
+      <Name>Medicine</Name>
+      <Price>300</Price>
+      <Quantity>4Strips</Quantity>
+    </Product6>
+ 
+ <Product7>
+     <ID>7</ID>
+      <Name>Medicine</Name>
+      <Price>3000</Price>
+      <Quantity>14Strips</Quantity>
+    </Product7>
+
+  <Product8>
+       <ID>8</ID>
+      <Name>Medicine</Name>
+      <Price>1300</Price>
+      <Quantity>10Strips</Quantity>
+    </Product8>
+
+ <Product9>
+       <ID>9</ID>
+      <Name>Medicine</Name>
+      <Price>5000</Price>
+      <Quantity>20Strips</Quantity>
+    </Product9>
+
+ <Product10>
+       <ID>10</ID>
+      <Name>Laptop</Name>
+      <Price>13000</Price>
+      <Quantity>1</Quantity>
+    </Product10>
+</Products>

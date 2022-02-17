@@ -1,0 +1,7 @@
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\bin\Debug\Day19Project2.exe.config
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\bin\Debug\Day19Project2.exe
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\bin\Debug\Day19Project2.pdb
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\obj\Debug\Day19Project2.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\obj\Debug\Day19Project2.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\obj\Debug\Day19Project2.exe
+C:\C#\Project\Day19 Assignment\Day19Project2\Day19Project2\obj\Debug\Day19Project2.pdb
