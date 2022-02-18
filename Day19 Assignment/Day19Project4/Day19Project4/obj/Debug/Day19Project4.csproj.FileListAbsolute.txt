@@ -1,8 +1,0 @@
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\bin\Debug\Day19Project4.exe.config
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\bin\Debug\Day19Project4.exe
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\bin\Debug\Day19Project4.pdb
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\obj\Debug\Day19Project4.csproj.AssemblyReference.cache
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\obj\Debug\Day19Project4.csproj.SuggestedBindingRedirects.cache
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\obj\Debug\Day19Project4.csproj.CoreCompileInputs.cache
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\obj\Debug\Day19Project4.exe
-C:\C#\Project\Day19 Assignment\Day19Project4\Day19Project4\obj\Debug\Day19Project4.pdb
