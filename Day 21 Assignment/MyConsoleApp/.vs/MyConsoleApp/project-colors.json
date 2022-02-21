@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9742205d-711f-4393-b7bd-905e6d8d3d47": {
+      "ProjectGuid": "9742205d-711f-4393-b7bd-905e6d8d3d47",
+      "DisplayName": "MyConsoleApp",
+      "ColorIndex": 0
+    },
+    "459443f3-c392-4168-a912-927420d2ec16": {
+      "ProjectGuid": "459443f3-c392-4168-a912-927420d2ec16",
+      "DisplayName": "MyWindowsApp",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

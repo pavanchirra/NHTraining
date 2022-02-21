@@ -1,0 +1,11 @@
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.exe.config
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.exe
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\bin\Debug\MyWindowsApp.pdb
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.AssemblyReference.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.Form1.resources
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.Properties.Resources.resources
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.GenerateResource.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.exe
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyWindowsApp\obj\Debug\MyWindowsApp.pdb

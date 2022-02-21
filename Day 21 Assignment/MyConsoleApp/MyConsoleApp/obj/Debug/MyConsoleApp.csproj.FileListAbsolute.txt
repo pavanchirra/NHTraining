@@ -1,0 +1,8 @@
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.AssemblyReference.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\C#\Project\Day 21 Assignment\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
