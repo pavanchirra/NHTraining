@@ -1,0 +1,13 @@
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\PavanClientApp.exe.config
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\PavanClientApp.exe
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\PavanClientApp.pdb
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\BusinessLogicLayer.dll
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\DataAccessLayer.dll
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\BusinessLogicLayer.pdb
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\bin\Debug\DataAccessLayer.pdb
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.csproj.AssemblyReference.cache
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.csproj.SuggestedBindingRedirects.cache
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.csproj.CoreCompileInputs.cache
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.csproj.CopyComplete
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.exe
+C:\C#\Project\My Project1\EmployeeManagementApplication\PavanClientApp\obj\Debug\PavanClientApp.pdb

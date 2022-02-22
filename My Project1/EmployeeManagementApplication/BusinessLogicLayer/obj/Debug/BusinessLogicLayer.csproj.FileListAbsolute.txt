@@ -1,0 +1,9 @@
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\C#\Project\My Project1\EmployeeManagementApplication\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

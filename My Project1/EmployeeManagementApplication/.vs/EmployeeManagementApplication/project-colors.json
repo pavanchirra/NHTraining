@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42060bf5-3e18-429c-9ec3-da279642d707": {
+      "ProjectGuid": "42060bf5-3e18-429c-9ec3-da279642d707",
+      "DisplayName": "EmployeeManagementApplication",
+      "ColorIndex": 0
+    },
+    "340cc82b-32d2-4537-aa40-b7440f5a33d6": {
+      "ProjectGuid": "340cc82b-32d2-4537-aa40-b7440f5a33d6",
+      "DisplayName": "PavanClientApp",
+      "ColorIndex": 1
+    },
+    "c4b4a374-bc98-436d-a0f7-3340b8040d45": {
+      "ProjectGuid": "c4b4a374-bc98-436d-a0f7-3340b8040d45",
+      "DisplayName": "BusinessLogicLayer",
+      "ColorIndex": 2
+    },
+    "0e6ea16c-1c92-41d5-a9f9-ac02f44e28aa": {
+      "ProjectGuid": "0e6ea16c-1c92-41d5-a9f9-ac02f44e28aa",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
